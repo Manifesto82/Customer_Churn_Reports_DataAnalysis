@@ -5,7 +5,7 @@ Mục tiêu của dự án là xây dựng một mô hình dự đoán tỷ lệ
 
 # Dữ liệu
 
-Bộ dữ liệu: Chứa các thông tin cơ bản về khách hàng như customerID, gender, SeniorCitizen, Partner, Dependents, tenure, PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies, Contract, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges, và Churn.
+Bộ dữ liệu: Chứa các thông tin cơ bản về khách hàng như customerID, gender, SeniorCitizen, Partner, Dependents, tenure (tính theo tháng), PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies, Contract, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges, và Churn.
 
 Biến mục tiêu: Churn (1: Khách hàng hủy dịch vụ, 0: Khách hàng không hủy dịch vụ).
 # Tiền xử lý dữ liệu

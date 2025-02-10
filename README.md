@@ -18,6 +18,8 @@ Chuyển đổi các giá trị categorical sang dạng số.
 Kiểm tra và xử lý các giá trị đặc biệt.
 
 Đếm số lượng giá trị riêng biệt trong từng cột.
+# Trực quan hóa dữ liệu
+Sử dụng PowerBI Desktop để trực quan.
 # Các thuật toán sử dụng
 
 Logistic Regression:

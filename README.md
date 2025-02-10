@@ -12,6 +12,7 @@ Biến mục tiêu: Churn (1: Khách hàng hủy dịch vụ, 0: Khách hàng kh
 Dữ liệu ban đầu chủ yếu ở dạng object, nên đã được chuyển đổi sang dạng số để thuận tiện cho việc phân tích.
 
 Các bước tiền xử lý bao gồm:
+
 Chuyển đổi các giá trị categorical sang dạng số.
 
 Kiểm tra và xử lý các giá trị đặc biệt.
